@@ -1,3 +1,5 @@
+This is an open refine thing..
+
 Input files:
 - samples_openrefine_lesson.csv -- the messy dataset from the OpenRefine lesson 
 - data_cleaning_script.txt -- the OpenRefine operations you've extracted
@@ -10,3 +12,5 @@ Instructions:
 2. Click the `Undo / Redo` tab > `Apply` and paste in the contents of the data_cleaning_script.txt file you just created with the JSON code.
 3. Click `Perform operations`. The dataset should now be the same as your other cleaned dataset.
 4. Save the dataset as 'sample_open-.sv'
+
+potato potato
